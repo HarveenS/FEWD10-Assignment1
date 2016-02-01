@@ -1,0 +1,23 @@
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+title {
+    text-align: center;
+}
+
+a herf {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+img scr {
+    align: left
+}
